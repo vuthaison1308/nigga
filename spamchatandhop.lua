@@ -1,13 +1,3 @@
-getgenv().message = {
-    "theaug1",
-    "theaug2",
-    "theaug3",
-}
-getgenv().delaymessage = 3
-getgenv().AutoText = true
-getgenv().HopDelay = 13
-getgenv().Hop = true
-
 repeat wait() until game:IsLoaded()
 
 spawn(function()
